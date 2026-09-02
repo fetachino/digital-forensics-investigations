@@ -55,6 +55,14 @@ Only sanitized narrative case studies are published. Disk images, packet capture
 
 This repository is intentionally documentation-only. Review the linked case studies for a consistent investigation structure: scenario, evidence sources, methodology, supported conclusions, limitations, and responsible-publication decisions. Reproduction requires the original controlled course evidence, which is not redistributed.
 
+## Installation
+
+No installation is required. This repository contains sanitized case studies and evidence-correlation visuals; disk images, packet captures, passwords, personal information, and course evidence are intentionally excluded.
+
+## Installation
+
+No installation is required. This repository contains sanitized case studies and evidence-correlation visuals; disk images, packet captures, passwords, personal information, and course evidence are intentionally excluded.
+
 ## About the author
 
 Built by **Ahmed Balde** as a responsible, sanitized digital-forensics portfolio. See more cybersecurity, networking, Python, and engineering work on [GitHub](https://github.com/fetachino).
