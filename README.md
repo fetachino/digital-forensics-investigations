@@ -23,6 +23,10 @@ Sanitized case studies demonstrating evidence handling, artifact analysis, timel
 
 Only sanitized narrative case studies are published. Disk images, packet captures, recovered files, email datasets, passwords, personal information, Autopsy databases, and course-provided evidence remain excluded.
 
+## How to review this portfolio
+
+This repository is intentionally documentation-only. Review the linked case studies for a consistent investigation structure: scenario, evidence sources, methodology, supported conclusions, limitations, and responsible-publication decisions. Reproduction requires the original controlled course evidence, which is not redistributed.
+
 ## Author
 
 Ahmed Balde
