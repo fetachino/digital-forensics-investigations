@@ -7,6 +7,12 @@
 
 Sanitized case studies demonstrating evidence handling, artifact analysis, timeline reconstruction, network forensics, and technical reporting.
 
+## Evidence coverage
+
+![Sanitized digital-forensics evidence matrix](docs/images/investigation-evidence-matrix.png)
+
+The matrix shows how each case study correlates evidence categories while keeping the underlying controlled datasets private.
+
 ## Investigation workflow
 
 ```mermaid
