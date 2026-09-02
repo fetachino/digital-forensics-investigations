@@ -1,0 +1,16 @@
+*.dd
+*.img
+*.E01
+*.raw
+*.pcap
+*.pcapng
+*.cap
+*.eml
+*.log
+*.aut
+*.db
+*.zip
+*.7z
+evidence/
+recovered-files/
+ModuleOutput/
