@@ -13,6 +13,12 @@ Sanitized case studies demonstrating evidence handling, artifact analysis, timel
 
 The matrix shows how each case study correlates evidence categories while keeping the underlying controlled datasets private.
 
+### Artifact correlation
+
+![Sanitized artifact-correlation strategy for the three investigations](docs/images/artifact-correlation.png)
+
+This view explains which independent artifact families support each investigation without publishing source evidence or personal data.
+
 ## Investigation workflow
 
 ```mermaid
