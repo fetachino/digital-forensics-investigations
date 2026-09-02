@@ -37,6 +37,9 @@ flowchart LR
 | [Data Leakage Investigation](case-studies/data-leakage-investigation.md) | Hash verification, disk artifacts, removable-media activity, timeline analysis |
 | [Rhino Hunt](case-studies/rhino-hunt.md) | Disk and network forensics, FTP/HTTP analysis, recovery, steganography |
 | [Email and Mobile Artifacts](case-studies/email-and-mobile-artifacts.md) | Email headers, browser artifacts, application data, Autopsy, ALEAPP |
+| [Password-audit lab](case-studies/password-audit-lab.md) | Controlled hash-strength assessment with John the Ripper |
+| [Disk-recovery lab](case-studies/disk-recovery-lab.md) | Deleted-file recovery and filesystem review with TestDisk and Sleuth Kit |
+| [Web-evidence lab](case-studies/owasp-web-evidence-lab.md) | Isolated OWASP training VM investigation and remediation reporting |
 
 ## Skills demonstrated
 
