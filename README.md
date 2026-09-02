@@ -13,6 +13,14 @@ Sanitized case studies demonstrating evidence handling, artifact analysis, timel
 
 The matrix shows how each case study correlates evidence categories while keeping the underlying controlled datasets private.
 
+| Tool or source | Portfolio treatment |
+| --- | --- |
+| John the Ripper | Password-audit methodology; hashes and recovered values excluded |
+| TestDisk / Sleuth Kit | Disk-recovery workflow; original images and recovered files excluded |
+| OWASP Broken Web Apps VM | Isolated web-evidence workflow; VM and exploit artifacts excluded |
+| Wireshark | Network-evidence correlation and protocol analysis |
+| Autopsy / ALEAPP | Filesystem, email, browser, and mobile-artifact review |
+
 ### Artifact correlation
 
 ![Sanitized artifact-correlation strategy for the three investigations](docs/images/artifact-correlation.png)
@@ -57,10 +65,6 @@ Only sanitized narrative case studies are published. Disk images, packet capture
 ## How to review this portfolio
 
 This repository is intentionally documentation-only. Review the linked case studies for a consistent investigation structure: scenario, evidence sources, methodology, supported conclusions, limitations, and responsible-publication decisions. Reproduction requires the original controlled course evidence, which is not redistributed.
-
-## Installation
-
-No installation is required. This repository contains sanitized case studies and evidence-correlation visuals; disk images, packet captures, passwords, personal information, and course evidence are intentionally excluded.
 
 ## Installation
 
