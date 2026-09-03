@@ -48,6 +48,8 @@ flowchart LR
 | [Password-audit lab](case-studies/password-audit-lab.md) | Controlled hash-strength assessment with John the Ripper |
 | [Disk-recovery lab](case-studies/disk-recovery-lab.md) | Deleted-file recovery and filesystem review with TestDisk and Sleuth Kit |
 | [Web-evidence lab](case-studies/owasp-web-evidence-lab.md) | Isolated OWASP training VM investigation and remediation reporting |
+| [Confidential-spreadsheet case](case-studies/confidential-spreadsheet-case.md) | File provenance, account activity, and timeline reconstruction |
+| [Email-forensics cases](case-studies/email-forensics-cases.md) | Email headers, packet evidence, timeline analysis, and malicious-activity reporting |
 
 ## Skills demonstrated
 
